@@ -10,5 +10,8 @@ services:
      resources:
        limits:
          memory: 1.5G
+     args:
+      username: super
+      password: letmein
    volumes:
      - "~/minecraft_data:/data"
