@@ -1,3 +1,6 @@
+# !! Do NOT FORK THIS !!
+# !! Super Insecure   !!
+
 # Awesome Compose [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![logo](awesome-compose.jpg)
